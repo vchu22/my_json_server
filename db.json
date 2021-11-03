@@ -1,15 +1,56 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+      "id":1,
+      "name": "John Doe",
+      "email": "jdoe@gmail.com"
     },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id":2,
+      "name": "John Smith",
+      "email": "jsmith@yahoo.com"
+    },
+    {
+      "id":3,
+      "name": "Mary Sue",
+      "email": "mary.sue@mail.com"
+    },
+    {
+      "id":4,
+      "name": "Elise Smith",
+      "email": "e-smith121@gamil.com"
+    },
+    {
+      "id":5,
+      "name": "Alex Lee",
+      "email": "alex_lee3456@outlook.com"
+    },
+    {
+      "id":6,
+      "name": "Susan O. Wong",
+      "email": "susan_o_wong@aol.com"
+    }
+  ],
+  "posts": [
+    [
+      {
+        "id": 1,
+        "title": "Post 1"
+      },
+      {
+        "id": 2,
+        "title": "Post 2"
+      },
+      {
+        "id": 4,
+        "title": "Post 4"
+      }
+    ]
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "good comment", "postId": 1 },
+    { "id": 2, "body": "bad comment", "postId": 1 },
+    { "id": 3, "body": "good comment", "postId": 2 }
   ],
   "profile": {
     "name": "typicode"
