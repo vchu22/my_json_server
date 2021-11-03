@@ -3,32 +3,38 @@
     {
       "id":1,
       "name": "John Doe",
-      "email": "jdoe@gmail.com"
+      "email": "jdoe@gmail.com",
+      "imgURL": "https://img.icons8.com/color/1600/person-male.png"
     },
     {
       "id":2,
       "name": "John Smith",
-      "email": "jsmith@yahoo.com"
+      "email": "jsmith@yahoo.com",
+      "imgURL": "https://img.icons8.com/color/1600/person-male.png"
     },
     {
       "id":3,
       "name": "Mary Sue",
-      "email": "mary.sue@mail.com"
+      "email": "mary.sue@mail.com",
+      "imgURL": "https://webstockreview.net/images/person-icon-png-1.png"
     },
     {
       "id":4,
       "name": "Elise Smith",
-      "email": "e-smith121@gamil.com"
+      "email": "e-smith121@gamil.com",
+      "imgURL": "https://webstockreview.net/images/person-icon-png-1.png"
     },
     {
       "id":5,
       "name": "Alex Lee",
-      "email": "alex_lee3456@outlook.com"
+      "email": "alex_lee3456@outlook.com",
+      "imgURL": "https://img.icons8.com/color/1600/person-male.png"
     },
     {
       "id":6,
       "name": "Susan O. Wong",
-      "email": "susan_o_wong@aol.com"
+      "email": "susan_o_wong@aol.com",
+      "imgURL": "https://webstockreview.net/images/person-icon-png-1.png"
     }
   ],
   "posts": [
